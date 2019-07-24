@@ -1,0 +1,25 @@
+nav, footer {
+  background-color: grey;
+  height: 30px;
+}
+
+section {
+  padding: 10px;
+}
+
+.b {
+  background-color: #F19731;
+  padding-right: 600px;
+  padding-bottom:90px;
+  height:20%;
+  length:50%;
+}
+.c {
+  background-color: #F1EE31;
+  padding-right: 150px;
+  padding-bottom: 90px;
+  width: 5%
+}
+main{
+  display:flex;
+}
